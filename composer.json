@@ -14,9 +14,9 @@
     },
     "autoload": {
         "psr-4": {
-            "Novel\\Panlong\\": "src/Novel/Panlong",
-            "Novel\\Fanren\\": "src/Novel/Fanren",
-            "Novel\\Xingchen\\": "src/Novel/Xingchen"
+            "Novel\\Panlong\\": "src/",
+            "Novel\\Fanren\\": "src/",
+            "Novel\\Xingchen\\": "src/"
         }
     }
 }
