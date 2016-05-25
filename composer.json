@@ -18,5 +18,8 @@
             "Novel\\Fanren\\": "src/",
             "Novel\\Xingchen\\": "src/"
         }
+    },
+    "suggest": {
+        "To people who like novel"
     }
 }
