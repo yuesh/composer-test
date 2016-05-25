@@ -1,0 +1,22 @@
+{
+    "name": "heiye/test",
+    "description": "test from heiye at github",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pengfei",
+            "email": "805924865@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Novel\\Panlong\\": "src/Novel/Panlong",
+            "Novel\\Fanren\\": "src/Novel/Fanren",
+            "Novel\\Xingchen\\": "src/Novel/Xingchen"
+        }
+    }
+}
